@@ -1,0 +1,5 @@
+https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/
+https://www.youtube.com/watch?v=z_mNVoBcMjM&t=598s
+
+More info on PassiveAgressiveClassifier: 
+https://www.youtube.com/watch?v=TJU8NfDdqNQ
